@@ -1,4 +1,4 @@
-![[netmap.svg]]
+![network map](netmap.svg)
 
 # Таблица адресации и операционных систем
 | machine(int)      | OS                              | ip                           | mask | gateway    |
